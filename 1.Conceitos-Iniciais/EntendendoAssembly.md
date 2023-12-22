@@ -1,10 +1,10 @@
 # Diferenças para serem pontuadas
 
 ## Assembly e assembler
-Assembly seria a linguagem de programação é o assembler seria o compilador dessa linguagemm.
+Assembly seria a linguagem de programação e o assembler seria o compilador dessa linguagem.
 
 ## Diferença entre Assembly e C
-Na linguagem montada (assembly) cada instrução é traduzida em linguagem de máquina, logo, se o processador que vai compilar o código não possuir a determinada função o código não irá funcionar. Já a linguagem compilada (por exemplo: C) possuem um intermediador entre a linguagem de alto nível é a linguagem de máquina, sendo assim, caso alguma função não tenha no processador mas o compilador tem a função de "traduzir" para o processador.  
+Na linguagem montada (assembly) cada instrução é traduzida em linguagem de máquina, logo, se o processador que vai compilar o código não possuir a determinada função o código não irá funcionar. Já a linguagem compilada (por exemplo: C) possuem um intermediador entre a linguagem de alto nível e a linguagem de máquina, sendo assim, caso alguma função não tenha no processador mas o compilador tem a função de "traduzir" para o processador.  
 
 ---
 Mnemônicos: são os nomes que damos para as instruções das linguagens de programação.
